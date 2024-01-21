@@ -19,9 +19,7 @@ class BittensorValidator:
 
     async def run_forever(self):
         while True:
-            # Faites ici ce que vous devez faire continuellement.
-            # Par exemple, attendre un certain temps pour ne pas surcharger le CPU.
-            await asyncio.sleep(10)  # Attendre 10 secondes.
+            await asyncio.sleep(60)
 
     def get_config(self):
         parser = argparse.ArgumentParser()
