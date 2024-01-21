@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bittensor_subnet.egg-info/PKG-INFO
+bittensor_subnet.egg-info/SOURCES.txt
+bittensor_subnet.egg-info/dependency_links.txt
+bittensor_subnet.egg-info/requires.txt
+bittensor_subnet.egg-info/top_level.txt
+template/__init__.py
+template/protocol.py
